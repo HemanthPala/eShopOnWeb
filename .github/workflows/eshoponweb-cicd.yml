@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 54876002-daf9-4336-9856-eb0a7d16b8ad
-  WEBAPP-NAME: HemanthPala
+  WEBAPP-NAME: NAME
 
 
 jobs:
